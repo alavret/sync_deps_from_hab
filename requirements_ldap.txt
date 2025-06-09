@@ -1,0 +1,4 @@
+python-dotenv
+ldap3
+requests
+aiohttp
